@@ -44,4 +44,4 @@ Because EIT's assessors also work across FedRAMP advisory engagements, we believ
 
 ### Machine-Readable Version
 
-A machine-readable version of this information, conforming to the [FedRAMP Assessor Information Schema](https://www.fedramp.gov/schemas/fedramp-assessor-information-schema-2026-06-24.json), is available at [https://assessment.eit2.com/.well-known/eit-ias.json](https://assessment.eit2.com/.well-known/eit-ias.json).
+A machine-readable version of this information, conforming to the [FedRAMP Assessor Information Schema](https://www.fedramp.gov/schemas/fedramp-assessor-information-schema-2026-06-24.json), is available at [https://ias.eit2.com/.well-known/eit-ias.json](https://ias.eit2.com/.well-known/eit-ias.json).
